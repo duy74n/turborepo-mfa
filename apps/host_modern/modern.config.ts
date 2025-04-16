@@ -6,6 +6,9 @@ export default defineConfig({
 	dev: {
 		port: 3000,
 	},
+	server: {
+		ssr: true,
+	},
 	runtime: {
 		router: true,
 	},

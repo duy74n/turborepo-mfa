@@ -1,7 +1,7 @@
 # Turborepo Module Federation
 
 - Host app use ModernJS
-- Remote apps use ModernJS SSR enabled and RsBuild
+- Remote apps use ModernJS and RsBuild
 
 # To start developing
 
