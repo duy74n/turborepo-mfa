@@ -13,6 +13,7 @@ const Index = () => (
 		</Helmet>
 		<main>
 			<Link to="/remote-modern">To ModernJS Remote</Link>
+			<Link to="/remote-rsbuild">To RsBuild Remote</Link>
 		</main>
 	</div>
 );
